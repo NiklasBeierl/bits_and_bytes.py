@@ -1,0 +1,11 @@
+black @ file:///home/niklas/.cache/pypoetry/artifacts/3a/bb/f9/2162891ce42a7fe19676aa1538c230b1ff4f80b730b49cfa59e94f252b/black-21.12b0-py3-none-any.whl
+click @ file:///home/niklas/.cache/pypoetry/artifacts/fa/59/1c/2eaf2b8f82cecf1e8d2d6dba67bd01214cf590d308bd9c917aa19c3eda/click-8.0.3-py3-none-any.whl
+memory-profiler @ file:///home/niklas/.cache/pypoetry/artifacts/61/f4/74/6846a0be45a3209c47ec5d02cce331a5e174fdd5850fdf46dfa91077fb/memory_profiler-0.60.0.tar.gz
+mypy-extensions @ file:///home/niklas/.cache/pypoetry/artifacts/2f/c6/09/3e1afdcb75322c65b786e63cd7e879b6be3db36dea78ca376db5483ae4/mypy_extensions-0.4.3-py2.py3-none-any.whl
+numpy @ file:///home/niklas/.cache/pypoetry/artifacts/21/cb/a5/f075b81d8cd429870f4a051b07c59e9c3a0dd7a2e1dfc23cb98fd0b1e9/numpy-1.22.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+pathspec @ file:///home/niklas/.cache/pypoetry/artifacts/48/a0/9f/f5128d9e11d591bca7a942dd80ec44f9b2de8294775c68e0b99beeef93/pathspec-0.9.0-py2.py3-none-any.whl
+platformdirs @ file:///home/niklas/.cache/pypoetry/artifacts/0c/47/e1/fc280f01f47c65d2f8b5dc54fb1a127d9738c5b8f241563cfca7408c8a/platformdirs-2.4.1-py3-none-any.whl
+psutil @ file:///home/niklas/.cache/pypoetry/artifacts/29/08/ce/6acb0694b5e377b94241694e6a23035d191bbfc88c8dc9fb63b76346f9/psutil-5.9.0-cp310-cp310-manylinux_2_12_x86_64.manylinux2010_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+tomli @ file:///home/niklas/.cache/pypoetry/artifacts/2e/78/2d/b0093c794e365745793f1e08c49a87e72513e653d3e737c7e2f7e204c8/tomli-1.2.3-py3-none-any.whl
+tqdm @ file:///home/niklas/.cache/pypoetry/artifacts/d5/09/4c/6cfaf9aa8989766f83aa3ddaeaf390880c71bd754e001e1dea29e7c0dd/tqdm-4.62.3-py2.py3-none-any.whl
+typing_extensions @ file:///home/niklas/.cache/pypoetry/artifacts/4f/0f/a7/b082eaf8890f4023be4c474d1c6eb672d28c6602d213a487c61e19a66b/typing_extensions-4.0.1-py3-none-any.whl
