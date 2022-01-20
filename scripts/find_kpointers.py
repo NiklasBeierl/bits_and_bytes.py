@@ -73,7 +73,7 @@ def find_kpointers_regex(path: str):
         memap = mmap.mmap(f.fileno(), 0, access=mmap.ACCESS_READ)
 
     with file_progress(len(memap)) as pbar:
-        for match in KPOINTER_PATTERN.finditer(memap):
+        for match in KPOINTER_PATTERN.finditer(memap): # type: ignore
             offset = match.start()
             pointers.append(offset)
             if offset % POINTER_SIZE == 0:
